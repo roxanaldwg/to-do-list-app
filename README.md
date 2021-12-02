@@ -1,18 +1,18 @@
-#To-Do List App
+# To-Do List App
 
 This is my prototype of a simple to-do list app that allows users to interact with the list items.
 
-#Built With
+# Built With
 
     HTML
     CSS
     JavaScript
 
-👤 Author
+# 👤 Author
 
     GitHub: @roxanaldwg
     
-#User Goals
+# User Goals
 
 The user should be able to interact with items from the list:
 
@@ -21,6 +21,6 @@ The user should be able to interact with items from the list:
     The user can delete an item from the list of items.
     The user can change the order of items in the list of items.
 
-#Acknowledgments
+# Acknowledgments
 
     CareerFoundry https://replit.com/@CFCurriculum
