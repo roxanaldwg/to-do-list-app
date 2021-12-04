@@ -27,7 +27,7 @@ let deleteButton = $('<deleteButton></deleteButton>');
 deleteButton.append(document.createTextNode('X'));
 li.append(deleteButton);
 
-function.deleteListItem(){
+function deleteListItem() {
   li.addClass('delete');
 }
 
